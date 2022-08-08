@@ -1,0 +1,23 @@
+	Calculadora en Java\n
+
+1. Abrir la calculadora.\n
+
+2. En ella podra realizar las operaciones aritmeticas basicas.\n
+
+3. Interactue con ella a traves del teclado o del raton.\n
+
+4. Considere lo siguiente:\n
+
+\t4.1	alt+s = sumar\n
+\t4.2	alt+r = restar\n
+\t4.3	alt+p = producto\n
+\t4.4	alt+d = dividir\n
+\t4.5	alt+enter = calcular\n
+\t4.6	alt+backspace = borrar\n
+\t4.7	alt+e = select all\n
+
+5. Puede ver el historial de operacionea en el menu -> opciones ->  historial\n
+
+6. Puede separar las operaciones en el historial en  menu -> opciones ->  nuevo\n
+
+\t***************************@Creado por Christian Sapon, 2022***********************************\n
